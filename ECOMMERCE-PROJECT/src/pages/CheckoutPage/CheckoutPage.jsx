@@ -17,9 +17,9 @@ export function CheckoutPage() {
 
           <div className="checkout-header-middle-section">
             Checkout (
-            <a className="return-to-home-link" href="/">
+            <Link className="return-to-home-link" to="/">
               3 items
-            </a>
+            </Link>
             )
           </div>
 
